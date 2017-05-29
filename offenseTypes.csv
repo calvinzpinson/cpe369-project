@@ -1,0 +1,47 @@
+"OffenseTypeId","OffenseTypeName","OffenseTypeGroupId"
+"09A","Murder/Nonnegligent Manslaughter",12
+"09B","Negligent Manslaughter",12
+"09C","Justifiable Homicide",12
+"100","Kidnaping/Abduction",13
+"11A","Forcible Rape",19
+"11B","Forcible Sodomy",19
+"11C","Sexual Assault With An Object",19
+"11D","Forcible Fondling (Indecent Liberties/Child Molest)",19
+"120","Robbery",18
+"13A","Aggravated Assault",2
+"13B","Simple Assault",2
+"13C","Intimidation",2
+"200","Arson",1
+"210","Extortion/Blackmail",9
+"220","Burglarly/Breaking and Entering",4
+"23A","Pocket-picking",14
+"23B","Purse-snatching",14
+"23C","Shoplifting",14
+"23D","Theft From Building",14
+"23E","Theft From Coin-Operated Machine or Device",14
+"23F","Theft From Motor Vehicle",14
+"23G","Theft of Motor Vehicle Parts/Accessories",14
+"23H","All Other Larceny",14
+"240","Motor Vehicle Theft",15
+"250","Counterfeiting/Forgery",5
+"26A","False Pretenses/Swindle/Confidence Game",10
+"26B","Credit Card/Automatic Teller Machine Fraud",10
+"26C","Impersonation",10
+"26D","Welfare Fraud",10
+"26E","Wire Fraud",10
+"270","Embezzlement",8
+"280","Stolen Property Offenses (Receiving, Selling, Etc.)",21
+"290","Destruction/Damage/Vandalism of Property",6
+"35A","Drug/Narcotic Violations",7
+"35B","Drug Equipment Violations",7
+"36A","Incest",20
+"36B","Statutory Rape",20
+"370","Pornography/Obscene Material",16
+"39A","Betting/Wagering",11
+"39B","Operating/Promoting/Assisting Gambling",11
+"39C","Gambling Equipment Violations",11
+"39D","Sports Tampering",11
+"40A","Prostitution",17
+"40B","Assisting or Promoting Prostitution",17
+"510","Bribery",3
+"520","Weapon Law Violations",22
