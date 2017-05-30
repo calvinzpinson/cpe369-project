@@ -4,7 +4,7 @@ See: https://ucr.fbi.gov/hate-crime/2014
 
 Data exctracted from the hate crime master record of FBI hate crimes from 2014.
 
-There are 7 tables associated with this data:
+There are 8 tables associated with this data:
 
 Incidents - highest level category. One incident can contain multiple offenses. 
 	    Refers to a specific event, with a date and time.
